@@ -1,5 +1,5 @@
 #Quick Sort Algorithm
-#Author: Leyton Taylor
+#Author: 0xOsiris
 .data 
 array: .word 8 2 7 10 5 6 3 4 9 3 1
 		
